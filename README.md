@@ -21,12 +21,12 @@ Residente en Málaga, España, soy un estudiante de desarrollo de software que a
 
 ### Frameworks y Herramientas
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) *(Oracle JET)*
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=flat&logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) (Oracle JET)
 
 ---
 
