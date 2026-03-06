@@ -33,11 +33,10 @@ Residente en Málaga, España, soy un estudiante de desarrollo de software que a
 ## 💼 Experiencia Profesional
 
 **Becario | VIEWNEXT**
-*Málaga, España | Abril 2024 - Mayo 2024*
+*Málaga, España | Abril 2025 - Mayo 2025 | Enero 2026 - Mayo 2026*
 
 * Participación en formación Dual enfocada al desarrollo de software empresarial.
 * Adquisición de experiencia práctica con nuevas tecnologías y frameworks en un entorno profesional.
-* *Regreso previsto en 2026.*
 
 ---
 
@@ -67,6 +66,7 @@ Residente en Málaga, España, soy un estudiante de desarrollo de software que a
 * **Curso de MongoDB**
 * **Effective Prompting** - Especialización en IA
 * **JavaScript: Fundamentals**
+* **Mucho más en mi perfil de LinkedIn*
 
 ---
 
